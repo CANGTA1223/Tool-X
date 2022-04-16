@@ -36,17 +36,17 @@ Tool-X works on any of the following operating systems:<br>
 
 Open the terminal and type following commands.
 
-* `apt update`
+* apt update`
 
-* `apt install git`
+*  apt install git`
 
-* `git clone https://github.com/rajkumardusad/Tool-X.git`
+* git clone https://github.com/CANGTA1223/Tool-X.git`
 
-* `cd Tool-X`
+* cd Tool-X`
 
-* `chmod +x install`
+* chmod +x install`
 
-* `sh install` if not work than use `./install`
+* sh install` if not work than use `./install`
 
 ------------------------------------------------------------------------
 
